@@ -1,0 +1,11 @@
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/assets/images/banner_ver.jpg
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/assets/images/toy_1.jpg
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Ing_Javier/Documents/Ciclo4/Reto_2/Reto2_v_3/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

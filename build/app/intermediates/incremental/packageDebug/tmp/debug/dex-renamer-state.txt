@@ -1,0 +1,4 @@
+#Thu Nov 17 18:48:26 COT 2022
+base.0=C\:\\Users\\Ing_Javier\\Documents\\Ciclo4\\Reto_2\\Reto2_v_3\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
